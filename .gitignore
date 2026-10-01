@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+results/
+smoke_results/
+figures/
+.DS_Store
